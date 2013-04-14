@@ -1,0 +1,60 @@
+1-stand/head twitches left
+2-stand/head stretches upward
+3-head and body disappears, arms bend at elbows
+4-head and body disappears, arms bend at elbows
+5-head,arms,body disappear, right leg moves backwards
+6-stand
+7-whole body stretches about as high as agility skillcape emote
+8-whole body stretches about as high as agility skillcape emote
+9-whole body stretches about as high as agility skillcape emote
+10-stand
+11-stand/head stretches downward
+12-stand/head stretches downward
+13-walking/body becomes ghostly
+14-cheer emote
+15-stand/body becomes ghostly
+16-stand/body and legs stretch back and forward
+17-stand/butt stretches backwards
+18-body deforms and pushes forward
+19-body deforms, bows
+20-body deforms, headbangs
+21-body detaches from head, starts running
+22-head detaches from body, headbangs
+23-head twitches right
+24-head twitches left
+25-body deforms, jumps forward
+26-body implodes
+27-body deforms, flys forward
+28-body deforms, spins around, dissapears
+29-cracks neck to the right
+30-head swoops down
+31-head snaps backward
+32-head twitches to the left
+33-head twitches to the left
+34-head twitches to the left
+35-head twitches to the left
+36-head drops down to your feet
+37-head bobbles back and forth
+38-head bobbles back and forth
+39-head bobbles to the right
+40-head bobbles forward
+41-stands, body deforms forward
+42-stands, breathes upward to the right
+43-stand
+44-dodges bullet, head falls off
+45-head moves forward
+46-head moves forward
+47-head twitches to the right
+540-steals from stall
+541-opens cupboard
+542-opens cupboard
+543-closes cupboard
+544-opens cupboard and then closes it
+545-opens cupboard
+9000-running with fist of guthix stone
+9001-running with fist of guthix stone
+9002-running with fist of guthix stone,looking left
+9003-running with fist of guthix stone,looking right
+9004-running with fist of guthix stone,looking forward
+9005-body becomes ghostly,vibrates,shakes,deforms
+9006-

@@ -1,0 +1,821 @@
+2561 = Baker
+2560 = Silk
+2563 = Fur Stall
+2562 = Gem Stall
+2565 = Silver
+2564 = Spice
+
+
+744 - fast monkey bar cross emote 
+745 - part of the monkey bar crossing emote (right arm back) 
+746 - Pipe climb starting emote 
+747 - entrance part of pipe emote, (non-animated) 
+748 - Pipe climb exiting emote 
+749 - full pipe climb emote, only in one sq though 
+770 - Falling emote, as if off of a rope or log (agility) 
+839 - Climb over something 
+844 - Crawling 
+1110 - MATRIX 
+1114 - hit by darts 
+1115 - jumping over spikes or rocks 
+1117 - part of hand holds 
+1118 - ??? 
+1119 - falling from hand holds 
+1120 - hand holds 
+1125 - hit by rocks + stumbles back 
+2239 - BOOM!!! shoots in the air - rogues den 
+2240 - going through bent bars - rogues den 
+2241 - poison gas - rogues den 
+2242 - launch in air, hit floor - rogues den 
+2243 - disable wall trap - rogues den 
+2244 - disable floor trap - rogues den 
+2245 - side wall trap? - rogues den 
+2246 - picking lock - roges den 
+2247 - listening to lock - rogues den 
+2750 - jump over fence emote 
+2753 - huge jump to side 
+2761 - jumping jacks - Drill seargent random 
+2756 - Push-Ups - Drill seargent random 
+2763 - sit-ups - Drill seargent random 
+2764 - jog in place - Drill seargent random 
+3063 - climb up a wall, then climb down 
+3067 - jumping over something, landing nicely 
+3068 - jumping over something, not landing very nicely... 
+3094 - looses balance falls forward 
+<Weapons\Combat> 
+402 - Dragon Dagger stab emote 
+403 - Block with shield defensive emote 
+404 - Block no shield defensive emote 
+405 - Dragon spear special 
+406 - 2h crush style emote 
+407 - 2h slash style emote 
+408 - Scythe 'REAP' attack style 
+410 - Defensive block when 2h weapon equiped 
+412 - Stab 
+422 - PUNCH 
+423 - KICK 
+424 - Fore-arm block 
+440 - Halberd "Slash" attack style 
+451 - Slash attack style (longsword, shortsword, ect.) 
+1060 - drag mace spec 
+1658 - Whip attack 
+1659 - Whip block 
+1660 - Whip walk 
+1661 - Whip run 
+1662 - Granite Maul stand 
+1663 - Granite Maul walk 
+1664 - Granite Maul run 
+1665 - Granite maul attack 
+1666 - Granite Maul block 
+1667 - Granite Maul special 
+1833 - drag baxe attack 
+2316 - standing holding toad shooter (fixed defice) 
+2318 - walking holding toad shooter 
+2323 - kick attack while wielding fixed device 
+2876 - DRAG AXE SPEC!! 
+2890 - DARKLIGHT SPEC! 
+2910 - spinning something and then throwing it 
+2927 - twirling weapon then hitting something 
+3157 - Dragon 2h special 
+<Barrows> 
+2060 - veracs walk 
+2061 - veracs standing 
+2062 - veracs attack!! 
+2063 - veracs block 
+2064 - dharoks walk 
+2065 - dharoks standing 
+2066 - dharoks crush 
+2067 - dharoks slash 
+2068 - torags attack 
+2074 - karils holding bow 
+2075 - karils shooting 
+2076 - karils walking 
+2077 - karils running 
+2078 - ahrims attack non-magic 
+2079 - ahrims block 
+2080 - guthans 'poke'? 
+2081 - guthans slash 
+2082 - guthans crush 
+<Magic> 
+708 - IBAN STAFF ATTACK EMOTE 
+712 - Low Alch 
+713 - High Alch 
+714 - Teleport emote 
+716 - Curse, Weaken, or Confuse 
+722 - Superheat 
+724 - Crumble Undead 
+729 - Curse, Weaken, or Confuse 
+811 - CHARGE 
+1816 - teleother - person being teled 
+1818 - teleother - cast on player 
+1819 - teleblock - cast 
+1820 - teleblock - cast 
+<Range> 
+0426 - Range (Bow) 
+0427 - Range (Cross-Bow) 
+<Holiday Items> 
+1457 - yo-yo 
+1458 - spin - yo-yo 
+1459 - walk yo-yo emote 
+1460 - crazy yo-yo 
+1835 - chicken dance 
+1836 - SKIPPING!!! 
+2836 - SCARED EMOTE! 
+2840 - ALAS emote 
+2844 - SHOW HEAD EMOTE 'Muahahahah' 
+3003 - marionette jump 
+3004 - marionette walk 
+3005 - marionette bow 
+3006 - mationette dance 
+3007 - shaking the imps emote 
+<Standard \ Mime> 
+855 - Yes 
+856 - No 
+857 - Thinking 
+858 - Bow 
+859 - Angry 
+860 - Cry 
+861 - Laugh 
+862 - Cheer 
+863 - Wave 
+864 - Beckon 
+865 - Clap 
+866 - Dance 
+2105 - panic emote 
+2106 - slow jig emote 
+2107 - spin emote 
+2108 - headbang emote 
+2109 - joy jump emote 
+2110 - rasp' berry emote 
+2111 - yawn emote 
+2112 - salute emote 
+2113 - shrug emote 
+1128 - GLASS WALL - MIME 
+1129 - LEAN - MIME 
+1130 - CLIMB ROPE - MIME 
+1131 - GLASS BOX - MIME 
+<Funny> 
+439 - lol SPIN ATTACK 
+505 - Arms dislocate and revolve around you... well would ya look at that... 
+528 - WHIRLPOOL!!! *cough* *choke* *gurggle* 
+725 - Looks like you're holding onto something that's floating over top of you, you grab it, and then let it go and stumble forward 
+734 - Wall Monster attack without spiney helmet on 
+750 - Looks like you're pushed by someone, 2 squares backward, and you stumble 
+755 - Skate boarding rofl, facing right 
+760 - Turn Right and face plant rofl 
+812 - CHARGE (as a ghost?) 
+837 - ROFL Drop dead 
+841 - Walking invisible 
+1375 - blinking 
+1500 - FLoats up 
+1501 - 'God' - continuation of 1500 
+1654 - dies in chair 
+1655 - motionless, dies in chair 
+1656 - leans back in chair 
+1739 - walking like holding somethign on back 
+1745 - walking stomp 
+1765-1769 - Straight up funny 
+1770 - HILARIOUS ( makes it look like you have a big thingy ) 
+1746 - crazy lol, funny! 
+1811 - twitch - push stand 
+1851 - super man 
+1861 - glare to right 
+1914 - uurghh... raawr!!!! 
+1938 - head throbbing 
+1950 - falling in pyramid - Desert treasure 
+1972 - evil laugh emote 
+2256 - arms crossed 
+2261 - FLYING CARPET 
+2262 - flying carpet - take off 
+2264 - flying carpet - landing 
+2339 - sitting moving arms 
+2340 - falls backwards while sitting down 
+2383 - twitching 
+2390 - backstepping, something in face? 
+2555 - fairy kick 
+2588 - jumping in the air 
+2592 - stand sideways and knod head 
+2769 - walking drunk 
+2770 - drunk 
+2780 - throws item in hand in the air 
+2720 - scrapes the air with a weapon? 
+2797 - holds sword weird and angry emote.. 
+2820 - dying emote + fades away.. 
+2895 - flying away 
+2939 - sitting, as if on a throne 
+2968 - something 
+2995 - face plant 
+3001 - boot to the nuts 
+3040 - standing drunk 
+3039 - walking drunk 
+<Miscellaneous> 
+618 - Harthingy fishing (slight paus) 
+619 - Lobster pot fishing 
+622 - Fishing Rod fishing 
+625 - Mining emote (one of them) 
+645 - Praying at Alter emote 
+733 - Lighting Logs Emote 
+776 - Pull rope emote from waterfall 
+791 - Runecrafting emote 
+794 - Balloon Stomp 
+804 - Disapearing when jumping into puddle at mage arena 
+827 - Burying Bones emote 
+828 - LADDER EMOTE 
+831 - Digging emote 
+875 - Woodcutting emote 
+881 - Pickpocket emote 
+883 - Cooking (range) 
+884 - Blowing Glass 
+885 - Cutting gems 
+894 - Spinning wheel 
+897 - Cooking (fire) 
+898 - Smithing (anvil) 
+899 - Smelting (furnace) 
+921 - toy horsey emote 
+1327 - drinking beer! 
+1329 - KEG! 
+1330 - ??? 
+1331 - Kneeling 
+1332 - Kneeling 
+1333 - STROKE PET ROCK 
+1350 - reading 
+1351 - sitting looking down 
+1352 - sitting using think emote 
+1353 - sitting and smoking 
+1461 - bending down 1 
+1462-1470 - bending down cape waving 
+1502 - swim? 
+1540 - punch in the air, floating 
+1542 - "" 
+1648 - cranking wheel ectophuntus 
+1649 - putting bones into machine 
+1651 - ectophuntus pray emote 
+1652 - "" 
+1670 - prayer book preach 
+1810 - wall monster caught by head 
+1877 - snake charmer 
+1895 - sneaks a peek at something 
+1902 - Spinning plate 
+1906 - dropping 
+1911 - turning head to the right 
+1913 - breathing hard 
+1914 - breaking out of something 
+1991-1997 - some weird ones 
+2046-2048 - in the air doing somethin2g 
+2273 - raking - farming 
+2304 - dead emote 
+2306 - jumping on something alot then jjumping off 
+2338 - on knees looking foward 
+2389 - ti bwoi wanna or w\e.. thing 
+2400 - rants then takes a knee 
+2412 - dr jekkel emote! 
+3129 - holding on to something like you're flying 
+3141 - turning pages in a book 
+3103 - sits up brushes self off 
+3114 - rises from the grave! 
+3170 - ELECTRICUTED! 
+<Ancients!> 
+1978 - Blitz 
+1979 - Barrage
+
+tzhaar emote list with chaos elemental,demon,abyssal demon,dragon,giants,giants mole,dark beast,dagnnoth
+daggnoth kings,azinian avatar,strange plant,baby dragon,kurask,dust devil and gargoyle.ghost,ninja and zombie monkey,all slayer monster and more but i dont type it lol
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+made 100% by me Mr.ROFLMA w00t. Don't leech it please
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+normal tzhaar npc
+
+2602 = walk
+2603 = stand
+2604 = stand with staff
+2605 = block
+2606 = block but fast
+2607 = dead
+2608 = dead
+2609 = atck with non wep only arm
+2610 = hit with wep 
+2611 = range atk
+2612 = dagger atk
+2613 = mage atk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tz-kih emote
+
+2619 = stand = too walk :P
+2620 = dead
+2621 = atk
+2622 = block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tz-kek emote id 2737
+
+2623 = walk
+2624 = stand
+2625 = atk
+2626 = block
+2627 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tok-xil emote
+
+2628 = atk
+2629 = block
+2630 = dead
+2631 = stand
+2632 = walk
+2633 = range atk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yt-mejkot emote
+
+2634 = walk
+2635 = block
+2636 = stand
+2636 = atk
+2637 = atk too lol
+2638 = dead
+2639 = heal like barrage rofl!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ket-zek emote
+
+2642 = stand
+2643 = walk
+2644 = melee atk
+2645 = block
+2646 = dead
+2647 = mage atk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tztok-jad
+
+2650 = stand
+2651 = walk
+2652 = range atk
+2653 = block
+2654 = dead
+2655 = melee atk
+2656 = mage atk
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+end of the tzhaar emote
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+k.B.D or dragon emote
+
+79   = walk
+80   = melee atk with claw
+81   = fire breath atk
+89   = block
+90   = stand
+91   = melee atk with head
+92   = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+demon emote
+
+63   = walk
+64   = atk slash
+65   = block
+66   = stand
+67-68= dead
+69   = mage atk with strik-blast
+70   = block but is not normal
+71   = shrink
+72   = re Grow
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+chaos elemental emote!
+
+3144 = walk
+3146 = mage atk
+3147 = dead
+3148 = stand
+3149 = tele atk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+giant emote!
+
+127  = walk
+128  = slash with sword
+129  = block
+130  = stand
+131  = dead
+132  = mage atk like god spell
+133  = tele shrink
+134  = tele re-Grow
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+abyssal demon emote
+
+1536 = stand
+1537 = atk
+1538 = die
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+giants mole emote
+
+3309 = stand
+3310 = die
+3311 = block
+3312 = atk
+3313 = walk
+3314 = make a hole and in :P
+3315 = out the hole!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+dark beast emote
+
+2729 = stand
+2730 = block
+2731 = walk
+2732 = dead
+2733 = atk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+dagnnoth emote
+
+1338 = stand
+1339 = walk
+1340 = block
+1341 = melee atk
+1342 = dead
+1343 = range atk
+1344 = swim
+1345 = swim
+1346 = swim
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+dagnnoth kings emote!
+
+2849 = walk
+2850 = stand
+2851 = melee atk1
+2852 = block
+2853 = melee atk2
+2854 = mage atk
+2855 = range atk
+2856 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+monkey guard (Gorila)
+
+1400 = run
+1401 = stand
+1402 = atk
+1403 = block
+1404 = dead
+1405 = heal he self
+1406 = stam
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+azinian avatar emote!
+
+1838 = stand
+1839 = walk
+1840 = melee atk
+1841 = dead
+1842 = block
+1843 = range atk
+1844 = magic atk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+strange plant emote
+
+352  = stand
+353  = atk
+354  = block
+355  = dead
+356  = walk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+baby dragon emote
+
+21   = walk
+25   = atk
+26   = block
+27   = stand
+28   = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+kurask emote
+
+1510 = walk
+1511 = stand
+1512 = atk
+1513 = dead
+1514 = idk what he do like stand lol 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+dust devil
+
+1555 = block
+1556 = stand
+1557 = atk
+1558 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gargoyle
+
+1515 = stand-walk
+1516 = stand-walk
+1517 = atk
+1518 = dead
+1519 = block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ghost emote
+
+120  = walk
+121  = walk
+122  = walk
+123  = atk
+124  = block
+125  = stand
+126  = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ninja and zombie monkey emote
+
+1380 = walk
+1381 = run
+1382 = zombie walk
+1383 = atk with non wep
+1384 = dead
+1385 = walk
+1386 = stand
+1387 = stand
+1388 = stand (best stand beter use this)
+1389 = ?????
+1390 = dead real one dead
+1391 = dead fake dead
+1392 = melee atk
+1393 = block
+1394 = range atk
+1395 = range block
+1396 = spin atk
+1397 = walk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Basilisk
+
+1544 = walk
+1545 = stand
+1546 = attack
+1547 = block
+1548 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+bloodveld
+
+1549 = walk
+1550 = block
+1551 = stand
+1552 = attack
+1553 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cockatrice
+
+1559 = walk
+1560 = idk i think atk
+1561 = stand
+1562 = attk
+1563 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rock slug
+
+1564 = walk
+1565 = stand
+1566 = stand2
+1567 = atk
+1568 = dead 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+banshee
+
+1521 = stand
+1522 = stand too
+1523 = atk
+1524 = dead
+1525 = block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nechryael
+
+1526 = walk
+1527 = stand
+1528 = attk
+1529 = lol he can mage barrage
+1530 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pyrefiend
+
+1578 = stand
+1579 = walk
+1580 = dead
+1581 = block
+1582 = atk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+jellie
+
+1583 = stand
+1584 = walk
+1585 = block
+1586 = attk
+1587 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Crawling hand
+
+1588 = stand
+1589 = walk
+1590 = dead
+1591 = block
+1592 = atk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Turoth
+
+1593 = walk
+1594 = stand
+1595 = atk
+1596 = block
+1597 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Agrith-Na-Na
+
+3498 = stand
+3499 = walk
+3500 = block
+3501 = atk
+3502 = magic atk
+3503 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dessourt
+
+3504 = stand
+3505 = block
+3506 = walk
+3507 = walk
+3508 = atk
+3509 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+wolfman
+
+1079 = walk
+1080 = atk
+1081 = block
+1082 = dead
+1083 = stand
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ghast
+
+1085 = walk
+1086 = stand
+1087 = atk
+1088 = block
+1089 = dead
+1090 = dead 2
+1091 = walk but it ghostly
+1092 = stand it ghostly
+1093 = atk it ghosly
+1094 = block it ghosly
+1095 = dead ghosly
+1096 = dead 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+troll emote
+
+1139 = walk
+1140 = walk
+1141 = walk
+1142 = atk
+
+not full!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gnome
+
+189  = walk
+190  = range atk
+191  = atk non wep
+192  = atk with wep
+193  = idk
+194  = block
+195  = stand
+196  = dead
+197  = god spell atk
+198  = idk he clap
+199  = stand
+200  = idk he clap and it fast
+201  = atk fast
+202  = he got something walk
+203  = lol idk what he done!!!! he fall with something
+204  = gnome matrix lol
+205  = he fall dooood
+206  = he using busing down
+207  = he fall dood again
+208  = doood fall doood again...
+209  = fall dood fall dood fall dood...
+210  = football gnome ftw!!
+211  = gnome cheeeeer
+212  = gnome that want fly...
+213  = bush
+214  = idk what....
+215  = same one but not same way...
+216  = he say something block...
+217  = i hate gnome idk what this is...
+218  = spin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+shost shade
+
+1281 = walk
+1282 = stand
+1283 = magic atk
+1284 = atk
+1285 = dead
+1286 = block
+1287 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spinolyp
+
+2863 = walk
+2864 = bove water
+2865 = under water
+2866 = under water long
+2867 = stand 
+2868 = atk
+2869 = block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+killerwatt
+
+3160 = stand
+3161 = walk
+3162 = dead
+3163 = atk
+3164 = atk2
+3165 = block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sea troll queen (377)
+
+3989 = stand
+3990 = stand
+3991 = atk
+3992 = mage atk
+3993 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sea troll (377)
+
+3983 = up from water
+3984 = walk
+3985 = atk
+3986 = block
+3986 = stand
+3988 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sea troll general (377)
+
+3977 = walk
+3978 = stand
+3979 = dead
+3980 = atk
+3981 = block
+3982 = arghhh
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tortoise (377)
+
+3953 = walk
+3954 = stand
+3957 = atk
+3958 = atk
+3960 = pefect atk
+3961 = block
+3962 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Defiler (Pest Control 377)
+
+3918 = stand
+3919 = walk
+3920 = atk
+3921 = block
+3922 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ravanger (PC 377)
+
+3913 = stand
+3914 = walk
+3915 = atk
+3916 = block
+3917 = dead
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shifter (PC 377)
+
+3898 = walk
+3899 = stand
+3900 = tele port
+3901 = atk
+3902 = block
+3903 = dead
+3904 = reglow from the teleport
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spinner (PC3 77)
+
+3906 = stand
+3907 = walk
+3908 = atk
+3909 = block
+3910 = dead
+3911 = healt the portal
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Brawler (PC 377)
+
+3892 = walk
+3893 = stand
+3894 = dead
+3895 = block
+3896 = stam
+3897 = atk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Splatter (PC 377)
+
+3886 = stand
+3887 = walk
+3888 = boom dead
+3890 = block
+3891 = atk
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Torcher (PC3 377)
+
+3878 = walk
+3879 = stand
+3880 = block
+3881 = dead
+3882 = atk

@@ -1,0 +1,232 @@
+case 779:
+if(buttonId == 6) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 50) {
+Engine.playerItems.deleteItem(p, 12852, 50);
+Engine.playerItems.addItem(p, 1438, 1);
+}
+else if(buttonId == 10)
+{
+ if (Engine.playerItems.invItemCount(p, 12852) > 50) {
+Engine.playerItems.deleteItem(p, 12852, 50);
+Engine.playerItems.addItem(p, 1440, 1);
+}
+else if(buttonId == 9)
+{
+ if (Engine.playerItems.invItemCount(p, 12852) > 125) {
+Engine.playerItems.deleteItem(p, 12852, 125);
+Engine.playerItems.addItem(p, 1454, 1);
+}
+if(buttonId == 12) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 125) {
+Engine.playerItems.deleteItem(p, 12852, 125);
+Engine.playerItems.addItem(p, 1458, 1);
+}
+if(buttonId == 13) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 50) {
+Engine.playerItems.deleteItem(p, 12852, 50);
+Engine.playerItems.addItem(p, 1448, 1);
+}
+if(buttonId == 11) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 50) {
+Engine.playerItems.deleteItem(p, 12852, 50);
+Engine.playerItems.addItem(p, 1442, 1);
+}
+if(buttonId == 8) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 125) {
+Engine.playerItems.deleteItem(p, 12852, 125);
+Engine.playerItems.addItem(p, 1452, 1);
+}
+if(buttonId == 15) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 50) {
+Engine.playerItems.deleteItem(p, 12852, 50);
+Engine.playerItems.addItem(p, 1444, 1);
+}
+if(buttonId == 7) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 50) {
+Engine.playerItems.deleteItem(p, 12852, 50);
+Engine.playerItems.addItem(p, 1446, 1);
+}
+if(buttonId == 14) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 125) {
+Engine.playerItems.deleteItem(p, 12852, 125);
+Engine.playerItems.addItem(p, 1462, 1);
+}
+if(buttonId == 40) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13614, 1);
+}
+if(buttonId == 37) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13615, 1);
+}
+if(buttonId == 43) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13617, 1);
+}
+if(buttonId == 46) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13618, 1);
+}
+if(buttonId == 38) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13620, 1);
+}
+if(buttonId == 41) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13619, 1);
+}
+if(buttonId == 44) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13622, 1);
+}
+if(buttonId == 47) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13623, 1);
+}
+if(buttonId == 39) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13624, 1);
+}
+if(buttonId == 36) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13625, 1);
+}
+if(buttonId == 42) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13627, 1);
+}
+if(buttonId == 45) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1000) {
+Engine.playerItems.deleteItem(p, 12852, 1000);
+Engine.playerItems.addItem(p, 13628, 1);
+}
+if(buttonId == 72) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 30) {
+Engine.playerItems.deleteItem(p, 12852, 30);
+Engine.playerItems.addItem(p, 13599, 1);
+}
+if(buttonId == 77) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 36) {
+Engine.playerItems.deleteItem(p, 12852, 36);
+Engine.playerItems.addItem(p, 13602, 1);
+}
+if(buttonId == 75) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 39) {
+Engine.playerItems.deleteItem(p, 12852, 39);
+Engine.playerItems.addItem(p, 13605, 1);
+}
+if(buttonId == 82) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 42) {
+Engine.playerItems.deleteItem(p, 12852, 42);
+Engine.playerItems.addItem(p, 13607, 1);
+}
+if(buttonId == 84) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 45) {
+Engine.playerItems.deleteItem(p, 12852, 45);
+Engine.playerItems.addItem(p, 13610, 1);
+}
+if(buttonId == 80) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 32) {
+Engine.playerItems.deleteItem(p, 12852, 32);
+Engine.playerItems.addItem(p, 13600, 1);
+}
+if(buttonId == 78) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 37) {
+Engine.playerItems.deleteItem(p, 12852, 37);
+Engine.playerItems.addItem(p, 13603, 1);
+}
+if(buttonId == 74) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 40) {
+Engine.playerItems.deleteItem(p, 12852, 40);
+Engine.playerItems.addItem(p, 13606, 1);
+}
+if(buttonId == 79) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 43) {
+Engine.playerItems.deleteItem(p, 12852, 43);
+Engine.playerItems.addItem(p, 13608, 1);
+}
+if(buttonId == 83) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 34) {
+Engine.playerItems.deleteItem(p, 12852, 34);
+Engine.playerItems.addItem(p, 13601, 1);
+}
+if(buttonId == 73) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 38) {
+Engine.playerItems.deleteItem(p, 12852, 38);
+Engine.playerItems.addItem(p, 13604, 1);
+}
+if(buttonId == 81) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 41) {
+Engine.playerItems.deleteItem(p, 12852, 41);
+Engine.playerItems.addItem(p, 13611, 1);
+}
+if(buttonId == 76) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 44) {
+Engine.playerItems.deleteItem(p, 12852, 44);
+Engine.playerItems.addItem(p, 13609, 1);
+}
+if(buttonId == 85) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 15) {
+Engine.playerItems.deleteItem(p, 12852, 15);
+Engine.playerItems.addItem(p, 13598, 1);
+}
+if(buttonId == 114) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 10000) {
+Engine.playerItems.deleteItem(p, 12852, 10000);
+Engine.playerItems.addItem(p, 13629, 1);
+}
+if(buttonId == 115) {
+}
+ if (Engine.playerItems.invItemCount(p, 12852) > 1) {
+Engine.playerItems.deleteItem(p, 12852, 1);
+Engine.playerItems.addItem(p, 1436, 1);
+}
+}
+}
+break;

@@ -1,0 +1,208 @@
+This is how to add Npc Agression to monsters and which ones have
+it already, so search in here the npc id before adding. Might already
+be added. Okay here's how to add
+
+Tutiortal on how to add Npc Agression to Npcs
+______________________________________________
+Go to Bulby > npcs > NPC.java
+crtl + f and search  ---> private void checkNPC() {
+Then add this
+
+case 6222: 
+npcAggression(npcId);
+
+The Case 6222 is the npc id, so switch 6222 to your npc id. That's it
+
+Npc's that have Npc Agression at the moment
+___________________________________________
+
+case 6222: 
+npcAggression(npcId);
+case 6218: 
+npcAggression(npcId);
+case 6269: 
+npcAggression(npcId);
+case 6210: 
+npcAggression(npcId);
+case 6212: 
+npcAggression(npcId);
+case 5253: 
+npcAggression(npcId);
+case 6220: 
+npcAggression(npcId);
+case 6229: 
+npcAggression(npcId);
+case 6230: 
+npcAggression(npcId);
+case 6231: 
+npcAggression(npcId);
+case 6998: 
+npcAggression(npcId);
+case 3752: 
+npcAggression(npcId);
+case 3753: 
+npcAggression(npcId);
+case 3754: 
+npcAggression(npcId);
+case 3755: 
+npcAggression(npcId);
+case 3756: 
+npcAggression(npcId);
+case 3757:
+npcAggression(npcId);
+case 3758: 
+npcAggression(npcId);
+case 3759: 
+npcAggression(npcId);
+case 3760: 
+npcAggression(npcId);
+case 3761:
+npcAggression(npcId);
+case 3747:
+npcAggression(npcId);
+case 3748: 
+npcAggression(npcId);
+case 3749: 
+npcAggression(npcId);
+case 3750: 
+npcAggression(npcId);
+case 3751:  
+npcAggression(npcId);
+case 3727:
+npcAggression(npcId);
+case 3728: 
+npcAggression(npcId);
+case 3729: 
+npcAggression(npcId);
+case 3730: 
+npcAggression(npcId);
+case 3731:
+npcAggression(npcId);
+case 3762:
+npcAggression(npcId);
+case 7997: 
+npcAggression(npcId);
+case 3763: 
+npcAggression(npcId);
+case 3764: 
+npcAggression(npcId);
+case 3765: 
+npcAggression(npcId);
+case 3766:
+npcAggression(npcId);
+case 3767:
+npcAggression(npcId);
+case 3768: 
+npcAggression(npcId);
+case 3769: 
+npcAggression(npcId);
+case 3770: 
+npcAggression(npcId);
+case 3771:
+npcAggression(npcId);
+case 3732:
+npcAggression(npcId);
+case 3733: 
+npcAggression(npcId);
+case 3734: 
+npcAggression(npcId);
+case 3735: 
+npcAggression(npcId);
+case 3736:
+npcAggression(npcId);
+case 3737:
+npcAggression(npcId);
+case 3738: 
+npcAggression(npcId);
+case 3739: 
+npcAggression(npcId);
+case 3740: 
+npcAggression(npcId);
+case 3741:  
+npcAggression(npcId);
+case 3772:
+npcAggression(npcId);
+case 3773: 
+npcAggression(npcId);
+case 3774: 
+npcAggression(npcId);
+case 3775: 
+npcAggression(npcId);
+case 3776:
+npcAggression(npcId);
+case 3742:
+npcAggression(npcId);
+case 3743: 
+npcAggression(npcId);
+case 3744: 
+npcAggression(npcId);
+case 3745: 
+npcAggression(npcId);
+case 3746:
+npcAggression(npcId);
+case 6999:
+npcAggression(npcId);
+case 7995:
+npcAggression(npcId);
+case 5421:
+npcAggression(npcId);
+case 6729: 
+npcAggression(npcId);
+case 6625: 
+npcAggression(npcId);
+case 6691: 
+npcAggression(npcId);
+case 1153: 
+npcAggression(npcId);
+case 1154: 
+npcAggression(npcId);
+case 1156:
+npcAggression(npcId);
+case 1157: 
+npcAggression(npcId);
+case 1155: 
+npcAggression(npcId);
+case 1158: 
+npcAggression(npcId);
+case 6223: 
+npcAggression(npcId);
+case 6225: 
+npcAggression(npcId);
+case 6227: 
+npcAggression(npcId);
+case 6239: 
+npcAggression(npcId);
+case 6203: 
+npcAggression(npcId);
+case 6204: 
+npcAggression(npcId);
+case 6206: 
+npcAggression(npcId);
+case 6208: 
+npcAggression(npcId);
+case 6247: 
+npcAggression(npcId);
+case 6248: 
+npcAggression(npcId);
+case 6250: 
+npcAggression(npcId);
+case 6252: 
+npcAggression(npcId);
+case 6257: 
+npcAggression(npcId);
+case 6255: 
+npcAggression(npcId);
+case 6260: 
+npcAggression(npcId);
+case 6261: 
+npcAggression(npcId);
+case 50: 
+npcAggression(npcId);
+case 6263: 
+npcAggression(npcId);
+case 6265: 
+npcAggression(npcId);
+case 115:
+npcAggression(npcId);
+case 2745:
+npcAggression(npcId);

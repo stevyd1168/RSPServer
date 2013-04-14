@@ -1,0 +1,214 @@
+Dragon Boots-11732
+Saradomin Sword-11730
+Zamorak Godsword-11700
+Saradomin GodSword-11698
+Bandos Godsword-11696
+Armadyl Godsword-11694
+Strength Skillcape-9750
+Strength Skillcape(t)-9751
+Strength Hood-9752
+Barrows Gloves-7462
+Dragon Chainmail-3140
+Dragon Platelegs-4087
+Amulet of Fury-6585
+Battle Hood-12866
+Barrelchest Anchor-10887
+Battle Robe Bottom 100-12880
+Druidic Mage Hood 100-12887
+Battle Robe Top 100-12873
+Water Runecrafting Gloves 100-12864
+Granite Body-10564
+Fire Cape-10566, 6570
+Granite Helm-10589
+Granite Legs-6809
+Bandos ChestPlate-11724
+Bandos Tassets-11726
+Rune Berserker Shield-12929
+Dragon Gauntlets-13006
+Dragonfire Shield-11283
+Attack Skillcape-9747
+Attack Skillcape(t)-9748
+Attack Hood-9749
+Defense Skillcape-9753
+Defense Skillcape(t)-9754
+Defense Hood-9755
+Range Skillcape-9756
+Range Skillcape(t)-9757
+Range Hood-9758
+Prayer Skillcape-9759
+Prayer Skillcape(t)-9760
+Prayer Hood-9761
+Magic Skillcape-9762
+Magic Skillcape(t)-9763
+Magic Hood-9764
+Runecrafting Skillcape-9765
+Runecrafting Skillcape(t)-9766
+RUnecrafting Hood-9767
+Hitpoints Skillcape-9768
+Hitpoints Skillcape(t)-9769
+Hitpoints Hood-9770
+Agility Skillcape-9771
+Agility Skillcape(t)-9772
+Agility Hood-9773
+Herblore Skillcape-9774
+Herblore Skillcape(t)-9775
+Herblore Hood-9776
+Thieving Skillcape-9777
+Thieving Skillcape-9778
+Thieving Hood-9779
+Crafting Skillcape-9780
+Crafting Skillcape(t)-9781
+Crafting Hood-9782
+Fletching Skillcape-9783
+Fletching Skillcape(t)-9784
+Fletching Hood-9785
+Slayer Skillcape-9786
+Slayer Skillcape(t)-9787
+Slayer Hood-9788
+Construction Skillcape-9789
+Construction Skillcape(t)-9790
+Construction Hood-9791
+Mining Skillcape-9792
+Mining Skillcape(t)-9793
+Mining Hood-9794
+Smithing Skillcape-9795
+Smithing Skillcape(t)-9796
+Smithing Hood-9797
+Fishing Skillcape-9798
+Fishing Skillcape(t)-9799
+Fishing Hood-9800
+Cooking Skillcape-9801
+Cooking Skillcape(t)-9802
+Cooking Hood-9803
+Firemaking Skillcape-9804
+Firemaking Skillcape(t)-9805
+Firemaking Hood-9806
+Woodcutting Skillcape-9807
+Woodcutting Skillcape-9808
+Woodcutting Hood-9809
+Farming Skillcape-9810
+Farming Skillcape(t)-9811
+Farming Hood-9812
+Quest Point Cape-9813
+Quest Point Hood-9814
+Summoning Skillcape-12169
+Summoning Skillcape(t)-12170
+Summoning Hood-12171
+Hunter Skillcape-9948
+Hunter Skillcape(t)-9949
+Hunter Hood-9950
+Slayer Helmet-13263
+Fighter Torso-10551
+Helm of Neitiznot-10828
+Gnome Copter-12842
+Dragon Full Helmet-11335
+3rd Age Range Top-10330
+3rd Age Range Legs-10332
+3rd Age Range Coif-10334
+3rd Age Range Vambraces-10336
+3rd Age Mage Top-10338
+3rd Age Mage Bottom-10340
+3rd Age Mage Hat-10342
+3rd Age Amulet-10344
+3rd Age Platelegs-10346
+3rd Age Platebody-10348
+3rd Age Full Helmet-10350
+3rd Age Kiteshield-10352
+Amulet Of Glory(t4)-10354
+Bob Shirt-10322
+Bob Shirt-10324
+Willow Comp Bow-10280
+Yew Comp Bow-10282
+Magic Comp Bow-10284
+Rune Helm(h1)-10286
+Rune Helm(h2)-10288
+Rune Helm(h3)-10290
+Rune Helm(h4)-10292
+Rune Helm(h5)-10294
+Gnome Scarf-9470
+Dark Bow-11235
+Bandos Boots-11728
+Armadyl Plateskirt-11722
+Armadyl Chestplate-11720
+Armadyl Helmet-11718
+Zamorakian Spear-11716
+Black ele' shirt-10400
+Black ele' legs-10402
+Red ele' shirt-10404
+Red ele' legs-10406
+Blue ele' shirt-10408
+Blue ele' legs-10410
+Red ele' shirt[-10412
+Red ele' legs-10414
+Purple ele' shirt-10416
+Purple ele' legs-10418
+Saradomin Crozier-10440
+Guthix Crozier-10442
+Zamorak Crozier-10444
+Saradomin Cloak-10446
+Guthix Cloak-10448
+Zamorak Cloak-10450
+Saradomin Mitre-10452
+Guthix Mitre-10454
+Zamorak Mitre-10456
+Saradomin Robe Top-10458
+Zamorak Robe Top-10460
+Guthix Robe Top-10462
+Saradomin Robe Legs-10464
+Guthix Robe Legs-10466
+Zamorak Robe Legs-10468
+Saradomin Stole-10470
+Guthix Stole-10472
+Zamorak Stole-10474
+Zamorak Bracers-10368
+Zamorak d'hide body-10370
+Zamorak chaps-10372
+Zamorak coif-10374
+Guthix Bracers-10376
+Guthix d'hide body-10378
+Guthix chaps-10380
+Guthix coif-10382
+Saradomin Bracers-10384
+Saradomin d'hide body-10386
+Saradomin chaps-10388
+Saradomin coif-10390
+Rune Heraldic Helm-8464-8494(even numbers)
+Rune Defender-8850
+Adamant Defender-8849
+Mithril Defender-8848
+Black Defender-8847
+Steel Defender-8846
+Iron Defender-8845
+Bronze Defender-8844
+Bronze Hasta-11367
+Iron Hasta-11369
+Steel Hasta-11371
+Mithril Hasta-11373
+Adamant Hasta-11375
+Rune Hasta-11377
+
+Guthix(Rune Heraldic Helm)-8474
+Saradomin(Rune Heraldic Helm)-8464,8488
+Zamorak(Rune Heraldic Helm)-8494
+
+Top Hat-13101
+Rune Cane-13099
+Sheep Mask-13107
+Snakeskin Bandana(charged)-12661
+Splitbark Helm(charged)-12663
+Rune Full Helm(Charged)-12665
+Dragon Med Helm(charged)-12667
+PUrple Naval Shirt-8957
+PUrple Tricorn Hat-8964
+Purple Naval Slacks-8996
+Dragon Full Helmet-11335
+Castle-Wars Bracelet-11079
+Ava's Attractor-10498
+Phoenix Necklace-11090
+Inoculation Bracelet-11088
+Forinthy Brace(5)-11095
+Skills Necklace(5)-11105
+Combat Bracelet(4)-11118
+Berserker Necklace-11128
+Regen Bracelet-11133
+Tzhaar-Ket-Om-6528

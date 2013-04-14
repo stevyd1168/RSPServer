@@ -5,7 +5,7 @@
 *.pydevproject
 .project
 .metadata
-bin/
+bin/Bulby
 tmp/
 *.tmp
 *.bak
@@ -161,6 +161,4 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
-
-/bin/Bulby/*
 

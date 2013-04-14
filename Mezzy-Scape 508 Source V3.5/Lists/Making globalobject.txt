@@ -1,1 +1,0 @@
-			player.frames.createGlobalObject(2732, player.heightLevel, player.absX, player.absY, 0, 10);
